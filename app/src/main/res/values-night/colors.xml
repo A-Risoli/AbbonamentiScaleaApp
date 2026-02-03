@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="cobalt_blue">#1565C0</color>
+
+    <color name="gold">#FFB300</color>
+    <color name="sunrise_gold">#FFC107</color>
+    <color name="sunset_orange">#FF8A65</color>
+    <color name="ochre">#FFE0B2</color>
+    <color name="pale_pink">#F8BBD9</color>
+
+    <color name="red_institutional">#C62828</color>
+    <color name="danger">#C62828</color>
+    <color name="terracotta">#D7CCC8</color>
+
+    <color name="turquoise">#00ACC1</color>
+    <color name="info">#00ACC1</color>
+
+    <color name="cedro_green">#66BB6A</color>
+    <color name="success">#66BB6A</color>
+
+    <color name="warning">#FFB300</color>
+
+    <color name="stone_gray">#546E7A</color>
+    <color name="anthracite">#37474F</color>
+    <color name="dark">#263238</color>
+
+    <color name="light">#2E2E2E</color>
+    <color name="border">#3A3A3A</color>
+
+    <color name="off_white">#FAFAFA</color>
+    <color name="background">#1F1F1F</color>
+    <color name="card_bg">#1F1F1F</color>
+    <color name="surface">#1F1F1F</color>
+    <color name="surface_variant">#2E2E2E</color>
+
+    <color name="text_primary">#F2F2F2</color>
+    <color name="text_secondary">#C8C8C8</color>
+</resources>

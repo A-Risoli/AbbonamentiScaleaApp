@@ -1,0 +1,5 @@
+# Copia questo file in local.properties (non committare local.properties)
+# Esempio credenziali per TDLib
+BOT_USERNAME="nomebot_senza_chiocciola"
+API_ID=123456
+API_HASH="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
